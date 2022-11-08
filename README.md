@@ -1,2 +1,3 @@
 # Java_Course_Exercises
-Exercises of Java 
+
+this repository aims to document all the practical exercises that have been passed along the course.
